@@ -1,0 +1,1 @@
+Read the Unity console via MCP, find all errors and warnings, then use unity-coder to fix them. Check the console again after each fix until it is clean.

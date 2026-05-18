@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"D:\\\\Projects\\\\NewGamePlusHackathon\\\\NewGamePlus\\\\Assets\\\\_Scripts\\\\RoomBuilder\")",
+      "Bash(mkdir -p \"D:\\\\Projects\\\\NewGamePlusHackathon\\\\NewGamePlus\\\\Assets\\\\_Data\\\\Grid\")",
+      "Bash(mkdir -p \"D:\\\\Projects\\\\NewGamePlusHackathon\\\\NewGamePlus\\\\Assets\\\\_Data\\\\Items\")",
+      "mcp__unity-mcp__Unity_GetConsoleLogs",
+      "mcp__unity-mcp__Unity_RunCommand"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "unity-mcp"
+  ]
+}
