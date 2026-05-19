@@ -12,262 +12,199 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f6789ba861d12841b8c94fdbdbdd8b8, type: 3}
   m_Name: DefaultGrid
   m_EditorClassIdentifier: Assembly-CSharp::Harmonize.RoomBuilder.GridManagerSO
-  <Columns>k__BackingField: 8
-  <Rows>k__BackingField: 8
+  _columns: 8
+  _rows: 8
   _tiles:
   - Col: 0
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 0
     Shape: 1
-    IsOccupied: 0
   - Col: 0
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 1
     Shape: 1
-    IsOccupied: 0
   - Col: 0
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 2
     Shape: 1
-    IsOccupied: 0
   - Col: 0
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 3
     Shape: 1
-    IsOccupied: 0
   - Col: 0
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 4
     Shape: 1
-    IsOccupied: 0
   - Col: 0
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 5
     Shape: 1
-    IsOccupied: 0
   - Col: 0
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 6
     Shape: 1
-    IsOccupied: 0
   - Col: 0
     Row: 7
     Shape: 1
-    IsOccupied: 0
   - Col: 1
     Row: 7
     Shape: 1
-    IsOccupied: 0
   - Col: 2
     Row: 7
     Shape: 1
-    IsOccupied: 0
   - Col: 3
     Row: 7
     Shape: 1
-    IsOccupied: 0
   - Col: 4
     Row: 7
     Shape: 1
-    IsOccupied: 0
   - Col: 5
     Row: 7
     Shape: 1
-    IsOccupied: 0
   - Col: 6
     Row: 7
     Shape: 1
-    IsOccupied: 0
   - Col: 7
     Row: 7
     Shape: 1
-    IsOccupied: 0
+  _initialItems: []

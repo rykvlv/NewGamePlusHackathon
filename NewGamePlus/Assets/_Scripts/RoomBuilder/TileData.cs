@@ -27,8 +27,5 @@ namespace Harmonize.RoomBuilder
 
         /// <summary>Shape variant rendered for this tile.</summary>
         public TileShape Shape;
-
-        /// <summary>True when an item is placed on this tile.</summary>
-        public bool IsOccupied;
     }
 }
